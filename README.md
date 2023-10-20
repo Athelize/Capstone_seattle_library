@@ -45,7 +45,7 @@ Follow these steps to get started with this project:
 2. Download the dataset from the provided link.
 3. Refer to the documentation in the `Notebook` folder to clean and preprocess the data.
 4. Use the Jupyter Notebook and Tableau file to explore the data.
-5. Link to Tableau Dashboard: https://public.tableau.com/app/profile/stephanie.rivero/viz/StephanieDA9SeattlePublicLibraryCapstone/Sheet1?publish=yes
+5. Link to Tableau Dashboard: [Stephanie Seattle Public Library Dashboard](https://public.tableau.com/app/profile/stephanie.rivero/viz/StephanieDA9SeattlePublicLibraryCapstone/Sheet1?publish=yes)
 
 ## Conclusion
 By analyzing the checkout data from the Seattle Public Library, I want to uncover how the pandemic impacted readership trends. The results will provide insights into the changing reading habits of the community during and after the pandemic, potentially shedding light on the role of digital resources in this transformation.
